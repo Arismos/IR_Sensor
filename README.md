@@ -12,5 +12,4 @@ This project was done under the guidance of **Dr. Mitradip Bhattacharjee, Assist
 * **Progress Reports**: Weekly Progress Reports (Total 6 Weeks)
 * **Arduino Codes:** Arduino Codes for the IR Sensor
 * **Python Code:**: For color detection and data visualisation
-* **MIT App Developer Files**: The developed application
 * **Final Submission**: The final submission made towards the completion of this project.
